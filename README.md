@@ -22,7 +22,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![desktop-preview](https://github.com/lily4178993/Stats-preview-card-component/blob/main/design/desktop-preview.jpeg?raw=true)
 ![mobile-preview](https://github.com/lily4178993/Stats-preview-card-component/blob/main/design/mobile-preview.jpeg)
 
-
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
