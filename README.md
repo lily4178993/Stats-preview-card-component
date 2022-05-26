@@ -24,7 +24,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [view solution here](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-using-html-and-css-DbnFZi8txB)
 - Live Site URL: [view live site here](https://lily4178993.github.io/Stats-preview-card-component/)
 
 
